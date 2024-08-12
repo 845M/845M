@@ -5,7 +5,7 @@ A brief description about me
 
 
 ## 🚀 About Me
-I'm 19y.o, I'm a student in North American Privat University : International Institute of Technology.
+I'm 20y.o, I'm a student in North American Privat University : International Institute of Technology.
 
 
 ## Other Common Github Profile Sections
@@ -19,5 +19,5 @@ I'm 19y.o, I'm a student in North American Privat University : International Ins
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP....
+Javascript, HTML, CSS, PHP, SQL, JAVA, UML....
 
