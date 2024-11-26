@@ -19,5 +19,5 @@ I'm 20y.o, I'm a student in North American Privat University : International Ins
 
 
 ## 🛠 Skills
-React, SpringBoot, Javascript, HTML, CSS, PHP, SQL, JAVA, UML....
+Flutter, React, SpringBoot, Javascript, HTML, CSS, PHP, SQL, JAVA, UML....
 
